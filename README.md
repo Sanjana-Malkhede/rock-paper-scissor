@@ -1,4 +1,4 @@
 # rock-paper-scissor
-This repository include front end project.
+this is demo only
 <br>
 Author - Sanjana Malkhede
